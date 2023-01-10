@@ -4,7 +4,7 @@
 HTML and JavaScript project of Pac Man moving from width of window autonomously.
 
 ## Run Roadmap of Future improvements
-I'm interested to see where Pacmen would go beyond the borders of the window. I intend on discovering more on how to create an infiniti edge type pacman.
+I'm interested to see where Pacmen would go beyond the borders of the window. I intend on discovering more on how to create an infiniti edge type pacman. I haven't quite perfected the structure of the code, and there is a lack of comments. Will be working on that very soon.
 
 ## License
 MIT License
