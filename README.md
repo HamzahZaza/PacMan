@@ -1,10 +1,11 @@
 # Description of Project
-## PacMan
+
+## PacMen Exercise
 HTML and JavaScript project of Pac Man moving from width of window autonomously.
-## Intentions
-I intend on creating a full scale Pac Man game in the near future.
-## Purpose 
-Challenge myself in practicing better code structure, function application, and have a great time doing it.
+
+## Run Roadmap of Future improvements
+I'm interested to see where Pacmen would go beyond the borders of the window. I intend on discovering more on how to create an infiniti edge type pacman.
+
 ## License
 MIT License
 
@@ -27,3 +28,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+![PacMan1](https://user-images.githubusercontent.com/49293927/211551380-a5497868-6de1-4878-9cf3-79c6353dae46.png)
+
